@@ -1,2 +1,2 @@
 # Mine-Minor-Project
-This is for minor project
+This is for minor project.
